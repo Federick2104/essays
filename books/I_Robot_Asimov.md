@@ -30,35 +30,35 @@ Argomenti che discuterò di questo capitolo: figura materna, la probabile superi
 
 <a name="girotondo1"> </a>
 # Girotondo 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo:  I problemi dell'artificiale, Coscienza limitata e schiavi del codice.
 
 <a name="raziocinio1"> </a>
 # Raziocinio 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo: l'Intelligenza e la superIntelligenza, religione e razionalità, schiavitù reciproca
 
 <a name="caccialepre1"> </a>
 # La caccia alla lepre 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo: Ribellione delle macchine
 
  <a name="bugiardo1"> </a>
 # Bugiardo!
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo:  Psicologo artificiale, Leggere nel pensiero, Amore, Bugie, Essere umani.
 
 <a name="fuggiasco1"> </a>
 #  Fuggiasco 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo: Propaganda sulle masse, Il problema di una coscienza nascosta.
 
 <a name="dissociazione1"> </a>
 # Dissociazione 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo: Ribellione insconscia, morte temporanea, la 'potenza' di calcolare oltre la morte.
 
 <a name="prova1"> </a>
 # La Prova 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo: AI in politica, Governo artificiale
 
 <a name="conflittoevitabile1"> </a>
 # Il conflitto evitabile 
-Argomenti che discuterò di questo capitolo: 
+Argomenti che discuterò di questo capitolo: Conflitti evitabili e inevitabili, problemi dell'uomo, futuro dell'umanità
 
 
 
