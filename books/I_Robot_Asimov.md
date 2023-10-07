@@ -28,29 +28,36 @@ Qui in questa raccolta di miei pensieri sull'opera, vorrei analizzare o per lo p
 # Robbie 
 Argomenti che discuterò di questo capitolo: figura materna, la probabile superiorità della mente artificiale.
 
-# Girotondo <a name="girotondo1"> </a>
+<a name="girotondo1"> </a>
+# Girotondo 
 Argomenti che discuterò di questo capitolo: 
 
-
-# Raziocinio <a name="raziocinio1"> </a>
+<a name="raziocinio1"> </a>
+# Raziocinio 
 Argomenti che discuterò di questo capitolo: 
 
-# La caccia alla lepre <a name="caccialepre1"> </a>
+<a name="caccialepre1"> </a>
+# La caccia alla lepre 
 Argomenti che discuterò di questo capitolo: 
 
-# Bugiardo! <a name="bugiardo1"> </a>
+ <a name="bugiardo1"> </a>
+# Bugiardo!
 Argomenti che discuterò di questo capitolo: 
 
-#  <a name="fuggiasco1">Fuggiasco </a>
+<a name="fuggiasco1"> </a>
+#  Fuggiasco 
 Argomenti che discuterò di questo capitolo: 
 
-# Dissociazione <a name="dissociazione1"> </a>
+<a name="dissociazione1"> </a>
+# Dissociazione 
 Argomenti che discuterò di questo capitolo: 
 
-# La Prova <a name="prova1"> </a>
+<a name="prova1"> </a>
+# La Prova 
 Argomenti che discuterò di questo capitolo: 
 
-# Il conflitto evitabile <a name="conflittoevitabile1"> </a>
+<a name="conflittoevitabile1"> </a>
+# Il conflitto evitabile 
 Argomenti che discuterò di questo capitolo: 
 
 
